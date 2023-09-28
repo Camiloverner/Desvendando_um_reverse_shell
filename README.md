@@ -68,9 +68,13 @@ Finalmente, a função pty.spawn é usada para criar um shell interativo no serv
 Em resumo, este código Python é um exemplo de um "one-liner" que estabelece uma conexão de rede com um servidor remoto e cria um shell interativo para interagir com o servidor. É importante notar que esse tipo de código pode ser usado para fins maliciosos, portanto, deve ser usado com responsabilidade e apenas em ambientes autorizados.
 
 
+<h3>👨‍💻🔎   Autor</h3>
+
+Fique a vontade para dar feedbacks ou colocar sua análise do código tambem, além de outras análises de Shells reversos diferentes com outras linguagens.
 
 
-
-
+<h4 align="center">
+May the force be with you
+<h4>
 
 
