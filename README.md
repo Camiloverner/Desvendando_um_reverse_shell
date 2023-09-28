@@ -7,7 +7,7 @@
 
 Se você é um entusiasta do hacking e da Segurança da Informação com certeza você já usou ou já ouviu falar sobre o Reverse Shell Generator. É uma plataforma Web que você consegue utilizar um gerador de conexão reversa de diversos tipos de conexões para Windows, Linux e MAC, e com diferentes linguagens como: Python, C, Ruby e por ai vai.
 
-Todo mundo sempre copia e cola um ou outro código de Shell reverso e percebendo isso resolvi questionar como realmente funciona um Reverse Shell. Será mesmo que é só copiar ou colar? Porque não podemos ir a fundo até os bits e opcodes e ver oque podemos aprender com isso? Bora lá!
+Todo mundo sempre copia e cola um ou outro código de Shell reverso e percebendo isso resolvi questionar como realmente funciona um Reverse Shell. Será mesmo que é só copiar ou colar? Porque não podemos ir a fundo e ver oque podemos aprender com isso? Bora lá!
 
 
 <h3>👾  O código</h3>
