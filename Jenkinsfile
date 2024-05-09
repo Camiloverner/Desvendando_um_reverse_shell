@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    paramaters {
+    paramaters{
         string(name: "fName", defaultValue: "Kamal", description: "")
     }
     stages {
