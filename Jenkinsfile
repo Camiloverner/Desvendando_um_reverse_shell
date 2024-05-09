@@ -1,8 +1,8 @@
 pipeline {
     agent any
     parameters{
-        string(name: "fName", defaultValue: "Kamal", description: "")
-        choice(name: "city", choice: ['one', 'two', 'three'], description: '')
+        string(name: "fName", defaultValue: "Kamal", description: "")  ///PARAMETRO DE STRING
+        choice(name: "city", choices: ['one', 'two', 'three'], description: '')   ///PARAMETRO DE ESCOLHA
     }
     stages {
         stage("one"){
