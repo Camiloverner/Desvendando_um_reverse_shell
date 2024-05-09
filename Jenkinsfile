@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage("one"){
             steps {
-                echo "${params.fName}"
+                echo '${params.fName}'
             }
         }
     }
